@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class xmlns:a="http//mydataxml//id=1"
+xmlns:b="http//mydataxml//id=2"
+xmlns:c="http//mydataxml//id=3"
+xmlns:d="http//mydataxml//id=4"
+xmlns:e="http//mydataxml//id=5">
+
+
+<marksheet id="1">
+<a:fname>Muhammad</a:fname>
+<a:lname>Wamiq</a:lname>
+<a:subject>Maths "75"</a:subject>
+<a:subject>Physics "70"</a:subject>
+<a:subject>English "80"</a:subject>
+<a:subject>Urdu "100"</a:subject>
+<a:subject>Chemistry "50"</a:subject>
+<a:Grade>A+</a:Grade>
+<a:percentage>95%</a:percentage>
+</marksheet>
+
+<marksheet id="2">
+<b:fname>Muhammad</b:fname>
+<b:lname>Wamiq</b:lname>
+<b:subject>Maths "75"</b:subject>
+<b:subject>Physics "70"</b:subject>
+<b:subject>English "80"</b:subject>
+<b:subject>Urdu "100"</b:subject>
+<b:subject>Chemistry "50"</b:subject> 
+<b:Grade>A+</b:Grade>
+<b:percentage>95%</b:percentage>
+</marksheet>
+
+<marksheet id="3">
+<c:fname>Muhammad</c:fname>
+<c:lname>Wamiq</c:lname>
+<c:subject>Maths "75"</c:subject>
+<c:subject>Physics "70"</c:subject>
+<c:subject>English "80"</c:subject>
+<c:subject>Urdu "100"</c:subject>
+<c:subject>Chemistry "50"</c:subject>
+<c:Grade>A+</c:Grade>
+<c:percentage>95%</c:percentage>
+</marksheet>
+
+<marksheet id="4">
+<d:fname>Muhammad</d:fname>
+<d:lname>Wamiq</d:lname>
+<d:subject>Maths "75"</d:subject>
+<d:subject>Physics "70"</d:subject>
+<d:subject>English "80"</d:subject>
+<d:subject>Urdu "100"</d:subject>
+<d:subject>Chemistry "50"</d:subject>
+<d:Grade>A+</d:Grade>
+<d:percentage>95%</d:percentage>
+</marksheet>
+
+<marksheet id="6">
+<e:fname>Muhammad</e:fname>
+<e:lname>Wamiq</e:lname>
+<e:subject>Maths "85"</e:subject>
+<e:subject>Physics "85"</e:subject>
+<e:subject>English "90"</e:subject>
+<e:subject>Urdu "100"</e:subject>
+<e:subject>Chemistry "90"</e:subject>
+<e:Grade>A+</e:Grade>
+<e:percentage>95%</e:percentage>
+</marksheet>
+</class>

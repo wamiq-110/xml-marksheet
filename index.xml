@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personData xmlns:a="http//mydataxml//id=1"
+xmlns:b="http//mydataxml//id=2"
+xmlns:c="http//mydataxml//id=3"
+xmlns:d="http//mydataxml//id=4">
+
+<userData id="1">
+<a:fname>Muhammad</a:fname>
+<a:lname>Wamiq</a:lname>
+<a:email>Hello@123.com</a:email>
+</userData>
+
+<userData id="2">
+<b:fname>Salman</b:fname>
+<b:lname>Rauf</b:lname>
+<b:email>Hello@123.com</b:email>
+</userData>
+
+<userData id="3">
+<c:fname>Nabeel</c:fname>
+<c:lname>khan</c:lname> 
+<c:email>Hello@123.com</c:email>
+</userData>
+
+<userData id="4">
+<c:fname>Adnan</c:fname>
+<c:lname>Shaikh</c:lname>
+<c:email>Hello@123.com</c:email>
+</userData>
+
+<userData id="5">
+<d:fname>Rizwan</d:fname>
+<d:lname>Sherwani</d:lname>
+<d:email>Hello@123.com</d:email>
+</userData>
+</personData>
